@@ -1,5 +1,3 @@
-Certainly, here's the updated detailed description of the "Guess the Number" game in C++:
-
 **Guess the Number Game**
 
 **Overview:**
